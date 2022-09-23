@@ -25,8 +25,8 @@
     <?php if (isset($_POST['emailadmin']) && isset($_POST['passwordadmin']) || (isset($_SESSION['admin']) && $_SESSION['admin'])) : ?>
 
         <?php
-        $mail = 'adminlocal@gmail.com';
-        $mdp = 'Td71216337*';
+        $mail = '********************';
+        $mdp = '********************';
 
         if ((isset($_POST['passwordadmin']) && $_POST['passwordadmin'] != $mdp)) {
             header('Location: ' . $dossier . 'admin.php?erreur=1');
