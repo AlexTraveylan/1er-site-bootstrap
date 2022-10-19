@@ -1,6 +1,6 @@
 <header>
 
-  <nav class="navbar navbar-expand-lg navbar-light bg-body fixed-top">
+  <nav class="navbar navbar-expand-xl navbar-light bg-body fixed-top">
     <div class="container-fluid text-end">
       <a class="navbar-brand col-4" href="index.php"><img src="assets/LogoAsso-removebg-preview.png" alt="LogoAsso" width="180px"></a>
       <div class="p-3">
@@ -23,7 +23,10 @@
             <a class="nav-link" href="ensuite.php">Idées et membres</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.php">contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="joinus.php">Nous rejoindre</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="parentselus.php">Parents élus</a>

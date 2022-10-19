@@ -55,6 +55,7 @@
           <li class="list-group-item text-light bg-1">GOSSET Virginie</li>
           <li class="list-group-item text-light bg-1">BOULOUHA Hanane</li>
           <li class="list-group-item text-light bg-1">BOUREAUD Carla</li>
+          <li class="list-group-item text-light bg-1">MAGOURI Zohira</li>
         </ul>
       </div>
     </div>
